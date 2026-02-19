@@ -9,8 +9,8 @@
 This repository contains coursework, projects, and assignments for I320M Data Science for Biomedical Informatics. The course focuses on applying data science techniques and methodologies to biomedical and health informatics problems.
 
 ## Project Datasets
-[**Project 1:** Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+[**✅ Project 1:** Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/grimrapster/I320M_Reagan_Peterson/tree/main/Project1/BreastCancerWisconsin)
 
 ## Class Notes
-✅ Ammar is testing new notes here.
+✅ Dr. Ammar is testing new notes here.
 
