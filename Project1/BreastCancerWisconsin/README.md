@@ -1,5 +1,12 @@
 ﻿# Project 1: Breast Cancer Wisconsin Diagnostic Analysis
 
+## MAIN FILES  
+```
+Cell_Irregularity_Inspection.ipynb # Assignment Main Notebook
+Breast_Assignment_VersionC.md      # Assignment prompt & Answers
+SPEC.md                            # Project specification document
+```
+
 ## Overview
 
 This project applies the 10-Point Data Inspection framework to and analyzes the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. The dataset contains features computed from digitized images of fine needle aspirate (FNA) of breast masses, describing characteristics of cell nuclei used to classify tumors as malignant or benign.
