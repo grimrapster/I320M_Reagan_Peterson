@@ -23,12 +23,19 @@ BreastCancerWisconsin/
 ├── Cell_Irregularity_Inspection.ipynb # Assignment Main Notebook
 ├── Breast_Assignment_VersionC.md      # Assignment prompt
 ├── Breast_Cancer_Presentation.pdf     # Assignment presentation
-└── breast_cancer_10point_problems.md  # Practice problems
+├── breast_cancer_10point_problems.md  # Practice problems
+└── SPEC.md                            # Project specification document
 ```
 
 ### Notebooks
 
 - **`Cell_Irregularity_Inspection.ipynb`** — Focuses on morphological irregularity categorization using `concavity_mean`. Tumors are grouped into five categories (Smooth, Mild, Moderate, Severe, Extreme) and analyzed for malignancy rate per group.
+
+---
+
+## Specification
+
+The project specification document ([`SPEC.md`](SPEC.md)) defines the full scope of the analysis including inputs, outputs, clarifying questions and decisions, acceptance criteria, and known constraints.
 
 ---
 
