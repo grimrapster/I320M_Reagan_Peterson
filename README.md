@@ -11,6 +11,8 @@ This repository contains coursework, projects, and assignments for I320M Data Sc
 ## Project Datasets
 [**✅ Project 1:** Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/grimrapster/I320M_Reagan_Peterson/tree/main/Project1/BreastCancerWisconsin)
 
+[**✅ Project 2:** Pima Peoples Diabetes](https://github.com/ammar-utexas/p2-team3-pima)
+
 ## Class Notes
 ✅ Dr. Ammar is testing new notes here.
 
